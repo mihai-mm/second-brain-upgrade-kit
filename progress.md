@@ -4,7 +4,7 @@ This file keeps the thread of the work from one session to the next. The agent u
 
 ## Current state
 
-Work not started yet. Next step: Stage 1, the five opening questions (`1-analysis/1-procedure.md`).
+Work not started yet. Next step: Stage 1, the six opening questions (`1-analysis/1-procedure.md`).
 
 _Updated: never_
 

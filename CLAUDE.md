@@ -48,7 +48,7 @@ Read one file at a time, when you get to it. Don't load all the modules at the s
 The path above is the one that gives the most. The person may ask for something else. Serve the request, and keep the rules.
 
 - **"Just tell me what's in here" or "is this worth my time?"** Answer from `INDEX.md` and `3-example/README.md`. Say plainly that without reading their system you can describe the method but you cannot tell what they are missing. Offer the analysis, which is read-only.
-- **"Compare this with my system", with no patience for questions.** Skip the five questions except the first (where the system lives). Follow the reading order in `1-analysis/1-procedure.md`, write the map and the report. Mark as "can't verify" whatever the skipped questions would have answered.
+- **"Compare this with my system", with no patience for questions.** Of the six opening questions ask only the first (where the system lives) and the last (what costs them the most today), in one line. Follow the reading order in `1-analysis/1-procedure.md`, write the map and the report. Mark as "can't verify" whatever the skipped questions would have answered.
 - **"Show me how it looks when it's finished."** Walk them through `3-example/vault/`, starting from `3-example/README.md`. Everything in it is invented: it is a model to read, never a set of files to paste into their system.
 - **"I want all of it."** Don't install everything at once. The order is: modules 01, 02 and 03 on one project, verified; then one module at a time, each verified in a fresh session. Tell them why: a piece that was never checked in a fresh session is a file, not a habit.
 - **"Why is this rule here?"** `3-example/rules-and-why.md` gives, for the main rules, the reason and the incident that produced them.

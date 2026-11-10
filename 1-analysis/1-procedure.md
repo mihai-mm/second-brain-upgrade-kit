@@ -4,7 +4,7 @@ Goal: understand how the person's system is built before judging it. Until the m
 
 In this stage you change nothing outside this folder.
 
-## Step A - Five questions
+## Step A - Six questions
 
 Ask these in a single message and wait for the answers. If you already know an answer from context, don't ask again.
 
@@ -13,6 +13,9 @@ Ask these in a single message and wait for the answers. If you already know an a
 3. Who writes into it: only you, the agent too, automated scripts, other people?
 4. Is it your own system or a team's?
 5. Which active project can I use as a sample? Ideally one you worked on in the last two weeks.
+6. What costs you the most in your system today? One thing that wastes your time, or that you keep having to explain, fix or repeat. If nothing comes to mind, say so.
+
+The answer to question 6 doesn't replace the evidence: the person may name one thing while the sessions show another. Use it to decide where to look first and how to order the proposals. In the report say which proposal addresses what they named, or say plainly that nothing in this folder does.
 
 ## Step B - Reading order
 

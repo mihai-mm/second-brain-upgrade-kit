@@ -14,7 +14,7 @@ Use these sections, in this order.
 
 ## 1. In short
 
-Four or five lines: how the system is built, which gap weighs the most, what you propose first. If nothing relevant is missing, say it here.
+Four or five lines: how the system is built, which gap weighs the most, what you propose first. If the person told you what costs them the most today, say here whether one of the proposals addresses it. If nothing relevant is missing, say it here.
 
 ## 2. Your system, as I understood it
 

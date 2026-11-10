@@ -12,7 +12,7 @@ Clone this repository, or download it as a ZIP from the green Code button. Then 
 
 It takes it from there, in three stages.
 
-1. **Analysis.** It asks you five questions, then reads your system without changing anything and shows you a map of what it understood. You correct it.
+1. **Analysis.** It asks you six questions, then reads your system without changing anything and shows you a map of what it understood. You correct it.
 
 2. **Report.** For each of the eighteen things my system does, it tells you whether yours already does it (even in a different form), does it halfway, or doesn't, with the file that proves it. Then it proposes at most three additions, in order.
 

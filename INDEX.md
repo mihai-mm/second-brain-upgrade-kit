@@ -15,7 +15,7 @@ Every file in this folder, what it is and when to open it. Read this once, then 
 
 | File | What it is | Open it when |
 |---|---|---|
-| `1-analysis/1-procedure.md` | The five questions, the reading order, the reading limit, how to write the map | Stage 1 starts |
+| `1-analysis/1-procedure.md` | The six opening questions, the reading order, the reading limit, how to write the map | Stage 1 starts |
 | `1-analysis/2-capabilities.md` | The eighteen capability cards, nine entries each | You judge the system (Stage 2) |
 | `1-analysis/3-measuring-impact.md` | The four measures on past sessions, and the five questions to ask when sessions can't be read | Before writing the report |
 | `1-analysis/extract_sessions.py` | Script that prints the first messages of past Claude Code sessions. Prints to screen, saves nothing | Only with the person's permission |
